@@ -4,6 +4,10 @@
 
 SETS
 * Land classes
+* Land class abbreviations and their full names:
+*   IRRL = Irrigated Cropland
+*   RFL  = Rainfed Cropland
+*   PAST = Pasture Land
    LANDCLASS "Land classes" / IRRL, RFL, PAST /
 * IRRL = Irrigated Cropland
 * RFL = Rainfed Cropland
